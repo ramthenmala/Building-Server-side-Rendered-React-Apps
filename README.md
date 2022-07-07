@@ -1,11 +1,11 @@
 # Building-Server-side-Rendered-React-Apps
 
 ## Tools we are going to Use
-Expressjs
-Nodejs
-ReactJS
-Webpack
-Babel
+- Expressjs
+- Nodejs
+- ReactJS
+- Webpack
+- Babel
 
 # Section 3
 ### Scaffolding an Environment for Server Rendering
