@@ -14,8 +14,8 @@
 
 
 # SSR React Components
-![Server-Rendering-how-it-works.png](./docimages/Server-Rendering-how-it-works.png.png?raw=true "Server-Rendering-react-components")
+![Server-Rendering-how-it-works](./docimages/Server-Rendering-how-it-works.png?raw=true "Server-Rendering-react-components")
 
 Server Reaact how it works
 # SSR React Components
-![Server-Rendering-how-it-works.png](./docimages/Server-Rendering-how-it-works.png.png?raw=true "Server-Rendering-how-it-works.png")
+![Server-Rendering-how-it-works](./docimages/Server-Rendering-how-it-works.png?raw=true "Server-Rendering-how-it-works.png")
