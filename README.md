@@ -17,3 +17,4 @@ Babel
 npm i react@16.12.0 react-dom@16.2.0 express@4.17.1 
 npm i -D @babel/core@7.7.7 @babel/node@7.7.7 babel-loader@8.0.6
 npm i -D webpack@4.41.5 webpack-cli@3.3.10 webpack-dev-server@3.10.1
+npm i -D @babel/preset-env@7.7.7 @babel/preset-react@7.7.4 
