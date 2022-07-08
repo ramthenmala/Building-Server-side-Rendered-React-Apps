@@ -4,7 +4,8 @@
   "description": "## Tools we are going to Use Expressjs Nodejs ReactJS Webpack Babel",
   "main": "index.js",
   "scripts": {
-    "start": "babel-node server"
+    "start": "babel-node server",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",

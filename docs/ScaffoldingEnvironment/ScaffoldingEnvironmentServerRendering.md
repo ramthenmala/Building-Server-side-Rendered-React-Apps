@@ -1,0 +1,2 @@
+# SSR React Components
+![Server-Rendering-ScaffoldingEnvironmentServerRendering](../../docimages/Server-Rendering-ScaffoldingEnvironmentServerRendering.png?raw=true "Server-Rendering-ScaffoldingEnvironmentServerRendering.png")
